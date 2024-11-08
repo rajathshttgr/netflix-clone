@@ -3,7 +3,7 @@ import './TitleCards.css';
 import cards_data from '../../assets/cards/Cards_data';
 import {Link} from 'react-router-dom'
 // eslint-disable-next-line react/prop-types
-const TitleCards = ({ title, category }) => {
+  const TitleCards = ({ title, category }) => {
   const [apiData, setApiData] = useState([]);
   const cardsRef = useRef();
 
