@@ -20,7 +20,7 @@
     "eject": "react-scripts eject",
     "dev": "vite",
     "build": "vite build",
-  "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "eslintConfig": {
     "extends": [
