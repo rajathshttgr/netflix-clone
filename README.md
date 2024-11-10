@@ -1,3 +1,4 @@
+Try this App <a href="https://rajathshttgr.github.io/netflix-clone/">Click here!</a>
 # Netflix Clone
 
 A Netflix clone application built with React and Vite. This project emulates the look and feel of the Netflix UI and includes key features like user authentication and navigation between different sections. It demonstrates the integration of Firebase for user authentication, routing using React Router, and an organized component-based structure.
