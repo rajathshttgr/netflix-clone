@@ -1,4 +1,5 @@
 {
+  "homepage": "https://rajathshttgr.github.io/netflix-clone",
   "name": "bigapp",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +21,8 @@
     "eject": "react-scripts eject",
     "dev": "vite",
     "build": "vite build",
-    "deploy": "gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
