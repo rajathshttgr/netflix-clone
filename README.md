@@ -26,17 +26,8 @@ A Netflix clone application built with React and Vite. This project emulates the
 
 ### Mobile View
 
-<p float="left">
+<p float="left" style="display: flex; gap: 10px;">
   <img src="public/SIgnIn-Mbl.jpg" alt="Sign In Mobile View" width="200"/>
   <img src="public/Home-Mbl.jpg" alt="Home Mobile View" width="200"/>
   <img src="public/Footer-Mbl.jpg" alt="Footer Mobile View" width="200"/>
 </p>
-
-## Getting Started
-
-To run this project locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/netflix-clone.git
-   cd netflix-clone
